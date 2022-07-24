@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Bienvenido 👋, Soy Marco Montesdeoca <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="40px">
 
-You can use the [editor on GitHub](https://github.com/FelixMF/FelixMF-FelixMF.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70px"> ![Banner Git](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70px"></h1>
 
-### Markdown
+### Información
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 Estudio en la: 
+**UTA** <img src= "https://media.giphy.com/media/3LrK7Q7UhF5MnhZ5ja/giphy.gif" width="50px">
+- 🌱 Lenguajes aprendidos:
+**JAVA, C** <img src= "https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" width="50px">
+- 🤔 Quiero desarrollar: 
+**Un videojuego en base al lenguaje de programacion Python.** <img src= "https://media.giphy.com/media/hvnCF7j1sfh1m/giphy.gif" width="50px">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h1 align= "center">Un gusto haberte conocido! <img src="https://media.giphy.com/media/DqBvd3IKURc40jgCdZ/giphy.gif" width="70px">
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FelixMF/FelixMF-FelixMF.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
